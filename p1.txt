@@ -1,3 +1,6 @@
 swagat
+<<<<<<< HEAD
 naik
 acharya
+=======
+>>>>>>> 6d01583 (p1 file)
